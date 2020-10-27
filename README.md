@@ -7,4 +7,3 @@ CP1: "Spacecraft in a non-spherical gravitational field"
 
 CP2: "Absence of transport in certain disordered lattices" (Quantum Mechanics)
 
-CP3: ""
